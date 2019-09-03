@@ -1,0 +1,31 @@
+p{
+    background: grey;
+    margin-right: 10%;
+}
+
+.secondparagraph{
+    background: blue;
+    text-align: center;
+
+}
+
+
+.post{
+    background: pink;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.quote{
+    background: pink;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.abc{
+    width: 500px;
+    height: 100px;
+    padding: 10px;
+    border: dashed 3px;
+    text-align: center;
+}

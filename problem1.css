@@ -1,0 +1,14 @@
+h1{
+    color: red;
+    padding: 20px;
+}
+
+h2{
+    color: blue;
+    padding: 1px;
+}
+
+.better{
+    color: green;
+    font-weight: bold;
+}
